@@ -113,7 +113,7 @@ a:hover {
 
 @media (max-width: 767px) {
   .text-brand {
-    font-size: 1.8rem;
+    font-size: 1.5rem;
   }
 }
 
@@ -128,6 +128,11 @@ a:hover {
 
 .color-d {
   color: #adadad;
+}
+
+.color-e {
+  color: red;
+  font-size: 1.4rem;
 }
 
 .color-text-a {
@@ -1059,7 +1064,7 @@ a:hover {
 .intro .intro-title {
   color: #ffffff;
   font-weight: 700;
-  font-size: 2.8rem;
+  font-size: 2.2rem;
   text-transform: uppercase;
 }
 
